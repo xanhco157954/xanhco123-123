@@ -1,10 +1,10 @@
 {
-  "name": "kmc",
+  "name": "kmc-kiennd106",
   "version": "1.2.2",
   "description": "KISSY Module Compiler",
   "author": {
     "name": "daxingplay",
-    "email": "daxingplay@gmail.com"
+    "email": "kien.nguyenduc106@gmail.com"
   },
   "homepage": "",
   "keywords": [
@@ -14,7 +14,7 @@
     "compiler"
   ],
   "bugs": {
-    "url": "https://github.com/daxingplay/ModuleCompiler/issues"
+    "url": "https://github.com/kiennd106/kmc-kiennd106/issues"
   },
   "contributors": [],
   "engines": {
@@ -40,12 +40,12 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/daxingplay/ModuleCompiler/blob/master/LICENSE.md"
+      "url": "https://github.com/kiennd106/kmc-kiennd106/blob/master/LICENSE.md"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/daxingplay/ModuleCompiler.git"
+    "url": "git://github.com/kiennd106/kmc-kiennd106.git"
   },
   "readmeFilename": "README.md"
 }
